@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/leegifts-ecommerce/static/css/main.ac6dc1b9.css",
-    "main.js": "/leegifts-ecommerce/static/js/main.046b2af7.js",
+    "main.js": "/leegifts-ecommerce/static/js/main.15d52cec.js",
     "static/js/453.935fef25.chunk.js": "/leegifts-ecommerce/static/js/453.935fef25.chunk.js",
     "static/media/gift.jpeg": "/leegifts-ecommerce/static/media/gift.4cb1848e7fd7dd40951c.jpeg",
     "static/media/gift22.jpeg": "/leegifts-ecommerce/static/media/gift22.1785288041fa7c54a0d4.jpeg",
@@ -16,11 +16,11 @@
     "static/media/logo.svg": "/leegifts-ecommerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/leegifts-ecommerce/index.html",
     "main.ac6dc1b9.css.map": "/leegifts-ecommerce/static/css/main.ac6dc1b9.css.map",
-    "main.046b2af7.js.map": "/leegifts-ecommerce/static/js/main.046b2af7.js.map",
+    "main.15d52cec.js.map": "/leegifts-ecommerce/static/js/main.15d52cec.js.map",
     "453.935fef25.chunk.js.map": "/leegifts-ecommerce/static/js/453.935fef25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac6dc1b9.css",
-    "static/js/main.046b2af7.js"
+    "static/js/main.15d52cec.js"
   ]
 }
